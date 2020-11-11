@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUfEy7cpafGT9BXMuPN9yisZzonFzA9VA026MT23OZNzcuib59PJrAqudPYIp4/NH4Kdt3sxcuyDuXI7lCi2xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SanaSayed\\source\\repos\\Intercom_JsonRead\\Intercom_JsonRead.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SanaSayed\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
