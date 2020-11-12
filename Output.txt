@@ -1,0 +1,17 @@
+UserId	Name			Distance(km)
+4	Ian Kehoe		10.57
+5	Nora Dempsey		23.29
+6	Theresa Enright		24.08
+8	Eoin Ahearn		83.53
+11	Richard Finnegan	38.14
+12	Christina McArdle	41.77
+13	Olive Ahearn		62.23
+15	Michael Ahearn		43.72
+17	Patricia Cahill		96.07
+23	Eoin Gallagher		82.69
+24	Rose Enright		89.03
+26	Stephen McArdle		98.87
+29	Oliver Ahearn		72.2
+30	Nick Enright		82.64
+31	Alan Behan		44.29
+39	Lisa Ahearn		38.36
